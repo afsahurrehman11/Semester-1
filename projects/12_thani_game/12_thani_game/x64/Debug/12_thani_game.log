@@ -1,0 +1,4 @@
+﻿  12_thani_game.cpp
+D:\ITU\semester 1\CFP\projects\12_thani_game\12_thani_game\12_thani_game.cpp(72,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ITU\semester 1\CFP\projects\12_thani_game\12_thani_game\12_thani_game.cpp(157): warning C4715: 'isMyPiece': not all control paths return a value
+  12_thani_game.vcxproj -> D:\ITU\semester 1\CFP\projects\12_thani_game\x64\Debug\12_thani_game.exe

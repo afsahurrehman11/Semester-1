@@ -1,0 +1,5 @@
+﻿  12_bead.cpp
+D:\ITU\semester 1\CFP\12_bead\12_bead\12_bead.cpp(82,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ITU\semester 1\CFP\12_bead\12_bead\12_bead.cpp(88,14): warning C4553: '==': result of expression not used; did you intend '='?
+D:\ITU\semester 1\CFP\12_bead\12_bead\12_bead.cpp(267): warning C4715: 'isMyPiece': not all control paths return a value
+  12_bead.vcxproj -> D:\ITU\semester 1\CFP\12_bead\x64\Debug\12_bead.exe

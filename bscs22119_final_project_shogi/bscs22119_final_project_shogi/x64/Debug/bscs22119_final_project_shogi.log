@@ -1,0 +1,19 @@
+﻿  bscs22119_final_project_shogi.cpp
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(140,24): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(141,28): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(142,34): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(143,34): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(391,38): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(392,42): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(393,50): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(394,50): warning C4309: 'argument': truncation of constant value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(701,6): warning C4101: 'rows': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(702,6): warning C4101: 'cols': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(728,6): warning C4101: 'rows': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(729,6): warning C4101: 'cols': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(755,6): warning C4101: 'rows': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(756,6): warning C4101: 'cols': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(1520,11): warning C4101: 'src': unreferenced local variable
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(1177): warning C4715: 'isValidMove': not all control paths return a value
+D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\bscs22119_final_project_shogi\bscs22119_final_project_shogi.cpp(1368): warning C4715: 'index_find': not all control paths return a value
+  bscs22119_final_project_shogi.vcxproj -> D:\ITU\semester 1\CFP\bscs22119_final_project_shogi\x64\Debug\bscs22119_final_project_shogi.exe

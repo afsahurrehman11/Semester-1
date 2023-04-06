@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_thani_game", "12_thani_game\12_thani_game.vcxproj", "{8939EE3B-4448-4147-9D38-E06CE7CD91E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Debug|x64.ActiveCfg = Debug|x64
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Debug|x64.Build.0 = Debug|x64
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Debug|x86.Build.0 = Debug|Win32
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Release|x64.ActiveCfg = Release|x64
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Release|x64.Build.0 = Release|x64
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Release|x86.ActiveCfg = Release|Win32
+		{8939EE3B-4448-4147-9D38-E06CE7CD91E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47AFEA7B-AA93-4203-BA78-1A479FC29CFE}
+	EndGlobalSection
+EndGlobal

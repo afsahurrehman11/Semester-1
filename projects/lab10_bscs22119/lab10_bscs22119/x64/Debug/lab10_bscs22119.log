@@ -1,0 +1,9 @@
+﻿  lab10_bscs22119.cpp
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(34,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(197,20): error C2062: type 'int' unexpected
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(202,30): error C2065: 'c': undeclared identifier
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(202,36): error C3078: array size must be specified in new expressions without an initializer
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(204,25): error C2065: 'c': undeclared identifier
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(207,33): error C2065: 'x': undeclared identifier
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(209,39): error C2065: 'x': undeclared identifier
+D:\ITU\semester 1\CFP\projects\lab10_bscs22119\lab10_bscs22119\lab10_bscs22119.cpp(209,45): error C3078: array size must be specified in new expressions without an initializer

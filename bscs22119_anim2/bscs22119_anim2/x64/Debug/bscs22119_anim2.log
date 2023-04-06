@@ -1,0 +1,25 @@
+﻿  bscs22119_anim2.cpp
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(48,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(56,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(63,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(76,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(88,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(97,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(102,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(118,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(141,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(143,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(161,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(161,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(163,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(163,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(173,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(175,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(178,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(198,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(200,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(205,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_anim2\bscs22119_anim2\bscs22119_anim2.cpp(207,13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  bscs22119_anim2.vcxproj -> D:\ITU\semester 1\CFP\bscs22119_anim2\x64\Debug\bscs22119_anim2.exe

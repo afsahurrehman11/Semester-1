@@ -1,0 +1,5 @@
+﻿  bscs22119_lab_9.cpp
+D:\ITU\semester 1\CFP\bscs22119_lab_9\bscs22119_lab_9\bscs22119_lab_9.cpp(110,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\ITU\semester 1\CFP\bscs22119_lab_9\bscs22119_lab_9\bscs22119_lab_9.cpp(111,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+D:\ITU\semester 1\CFP\bscs22119_lab_9\x64\Debug\bscs22119_lab_9.exe : fatal error LNK1120: 1 unresolved externals

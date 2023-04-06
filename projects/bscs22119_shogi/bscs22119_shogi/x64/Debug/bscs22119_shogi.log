@@ -1,0 +1,12 @@
+﻿  bscs22119_shogi.cpp
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(183): warning C4715: 'isMyPiece': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(207): warning C4715: 'isValid_Selection': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(235): warning C4715: 'isValid_Drop': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(435): warning C4715: 'is_Diagonal_path_clr_L2R': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(534): warning C4715: 'gold_general_legality': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(555): warning C4715: 'silver_general_legality': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(575): warning C4715: 'lance_legality': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(595): warning C4715: 'pawn_legality': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(987): warning C4715: 'find_king': not all control paths return a value
+D:\ITU\semester 1\CFP\projects\bscs22119_shogi\bscs22119_shogi\bscs22119_shogi.cpp(1054): warning C4715: 'checkmate': not all control paths return a value
+  bscs22119_shogi.vcxproj -> D:\ITU\semester 1\CFP\projects\bscs22119_shogi\x64\Debug\bscs22119_shogi.exe

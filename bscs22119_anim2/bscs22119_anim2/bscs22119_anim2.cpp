@@ -24,6 +24,8 @@ void getRowColbyLeftClick(int& rpos, int& cpos)
 		}
 	} while (true);
 }
+
+// goto row col 
 void gotoRowCol(int rpos, int cpos)
 {
 	COORD scrn;
